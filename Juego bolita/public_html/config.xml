@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.atrapa.la.bolita" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Atrapa la bolita</name>
+    <description>
+        La bolita cae y deberás cogerla con la base antes que toque el juego. Según avances de nivel, subirá la velocidad de la bola y la base.
+		Cada nivel es mas complicado. 
+        
+    </description>
+    <author email="" href="">
+        Moises.
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="cordova-plugin-whitelist"/>
+    <plugin name="cordova-plugin-device-motion"/>
+</widget>
