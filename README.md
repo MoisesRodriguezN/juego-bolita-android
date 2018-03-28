@@ -17,7 +17,7 @@ A partir del nivel 10 se complica bastante ¿A cuánto eres capaz de llegar?
 
 ## Captuas
 
-![Con titulo](https://github.com/MoisesRodriguezN/juego-bolita-android/raw/master/Juego%20bolita/public_html/capturas/cap1.png "Juego empezando" =400x711)
+![Con titulo](https://github.com/MoisesRodriguezN/juego-bolita-android/raw/master/Juego%20bolita/public_html/capturas/cap1.png  = 400x711 "Juego empezando")
 
 ![Con titulo](https://github.com/MoisesRodriguezN/juego-bolita-android/raw/master/Juego%20bolita/public_html/capturas/cap2.png "Nivel 2 con una vida menos")
 
