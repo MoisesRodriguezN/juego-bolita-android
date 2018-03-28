@@ -23,4 +23,4 @@ A partir del nivel 10 se complica bastante ¿A cuánto eres capaz de llegar?
 
 ![Con titulo](https://github.com/MoisesRodriguezN/juego-bolita-android/raw/master/Juego%20bolita/public_html/capturas/cap3.png "Juego perdido nivel 11")
 
-![Con titulo](https://github.com/MoisesRodriguezN/juego-bolita-android/raw/master/Juego%20bolita/public_html/capturas/cap4.png "Juego perdido nivel 6")
+![Con titulo](https://github.com/MoisesRodriguezN/juego-bolita-android/raw/master/Juego%20bolita/public_html/capturas/cap4-1.png "Juego perdido nivel 6")
